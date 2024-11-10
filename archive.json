@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2024-11-07T01:12:15.910498+00:00",
+  "timestamp": "2024-11-10T01:16:24.758172+00:00",
   "repo": "oauthstuff/draft-ietf-oauth-security-topics",
   "labels": [
     {
@@ -2942,7 +2942,7 @@
       "baseRepository": "oauthstuff/draft-ietf-oauth-security-topics",
       "baseRefName": "master",
       "baseRefOid": "6d0ce4f3a159b0c5716db5342afed11f3e0a89db",
-      "headRepository": "aaronpk/draft-ietf-oauth-security-topics",
+      "headRepository": null,
       "headRefName": "master",
       "headRefOid": "a586ed6a2edd7e023cb2791b00e048b4720bed9e",
       "closedAt": "2023-06-05T13:45:35Z",
@@ -3150,7 +3150,7 @@
       "baseRepository": "oauthstuff/draft-ietf-oauth-security-topics",
       "baseRefName": "master",
       "baseRefOid": "296f0056fd182482ac47e8be8176a8423a14b7a5",
-      "headRepository": "aaronpk/draft-ietf-oauth-security-topics",
+      "headRepository": null,
       "headRefName": "master",
       "headRefOid": "e2ea71cd43ca9ff6b8246e24e1777beb269ab6e6",
       "closedAt": "2023-06-14T16:18:34Z",
@@ -3548,7 +3548,7 @@
       "baseRepository": "oauthstuff/draft-ietf-oauth-security-topics",
       "baseRefName": "master",
       "baseRefOid": "1e9ae984c5d31215ce765ad89becde5c795cd814",
-      "headRepository": "aaronpk/draft-ietf-oauth-security-topics",
+      "headRepository": null,
       "headRefName": "patch-1",
       "headRefOid": "8f4e77655d8d1708bf9b8f0480958f19e38dfb13",
       "closedAt": "2023-11-09T13:07:56Z",
